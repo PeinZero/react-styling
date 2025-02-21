@@ -1,4 +1,4 @@
-# React (Essentials) + TypeScript + Vite
+# Styling React Components
 
 ### This projects covers how to style react components
 
