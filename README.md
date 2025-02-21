@@ -3,3 +3,5 @@
 ### This projects covers how to style react components
 
 <hr>
+
+- Static & Dynamic styling
